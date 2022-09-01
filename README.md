@@ -5,9 +5,14 @@ This repo contains 163 phising emails collected from different University websit
 To cite: 
 
 @inproceedings{shahriar2021domain,
+
   title={A Domain-Independent Holistic Approach to Deception Detection},
+  
   author={Shahriar, Sadat and Mukherjee, Arjun and Gnawali, Omprakash},
+  
   booktitle={Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)},
+  
   pages={1308--1317},
+  
   year={2021}
 }
